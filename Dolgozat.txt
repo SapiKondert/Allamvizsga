@@ -1,0 +1,27 @@
+Frequency Test: Minimum length of 100 bits.
+Block Frequency Test: Minimum length of 100 bits (with block sizes typically ranging from 20 to 128 bits).
+Cumulative Sums Test: Minimum length of 100 bits.
+Runs Test: Minimum length of 100 bits.
+Longest Run of Ones Test: Minimum length of 128 bits.
+Binary Matrix Rank Test: Minimum length of 38,912 bits.
+Discrete Fourier Transform (Spectral) Test: Minimum length of 1,000 bits.
+Non-overlapping Template Matching Test: Minimum length of 1,000,000 bits.
+Overlapping Template Matching Test: Minimum length of 1,000,000 bits.
+Universal Statistical Test: Minimum length of 387,840 bits.
+Approximate Entropy Test: Minimum length of 1,000,000 bits.
+Random Excursions Test: Minimum length of 1,000,000 bits.
+Random Excursions Variant Test: Minimum length of 1,000,000 bits.
+Linear Complexity Test: Minimum length of 1,000,000 bits.
+Serial Test: Minimum length of 1,000,000 bits.
+Approximate Entropy Test: Minimum length of 1,000,000 bits.
+
+Classroom: 	David Wong Real world criptography (randomness is secret) stream cipher
+		Backdorok rng es seed
+		Dan Boneh, Viktor Shop 43. Oldal pseudorandom generalas stream cipher
+		
+Fejezetek:	1. RNG fajtai hasznalata mien fajta (random szamok) C, Python RNG Dan Boneh Case study Blum Blum Shup
+		2. RNG Algoritmusok - NIST teszt a kulombozo RNG-re,(Cripto csomagok (Java,C,Python))
+		3. Sajat algoritmus - kulombozo megoldasok, Gondolatmente, feljlesztes, nehezsegek
+		4. Konkluzio - vizualizaciok
+
+Bemutato 15 - perc 
